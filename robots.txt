@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://aldyn-nrdyn.github.io/goaldyn-pages/sitemap.xml
+Sitemap: https://goaldyn.nrdyn.com/sitemap.xml
